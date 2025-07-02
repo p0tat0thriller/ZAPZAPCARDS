@@ -77,3 +77,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the a
 ---
 
 **Enjoy smarter, faster, and more effective studying with ZapZapCards!**
+
+### 6. System architecture
+
+The ZapZapCards platform uses a modular architecture: a user-friendly frontend communicates with a Node.js backend, which handles AI flashcard generation and data storage. Authentication is managed separately using Clerk, while the backend integrates with Groq’s AI models and Firebase as the database to deliver seamless, real-time flashcard creation.
+
+![image](https://github.com/user-attachments/assets/002f4f80-1ed6-4d89-8feb-6a31b6fa3dad)
+
