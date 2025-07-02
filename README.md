@@ -67,14 +67,27 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to use the app.
 
-### 5. Link to Deployed Application
+### 5.  Link to Deployed Application 
 
 🔗 [zapzapcards.vercel.app](https://zapzapcards.vercel.app)
 
-- Deploy to Vercel, Firebase Hosting, or your preferred platform.
-- For deploying Firebase Functions, navigate to the `functions` directory and follow standard Firebase deployment steps.
+You can deploy the project using **Vercel**, **Firebase Hosting**, or any other preferred platform.
+
+- To deploy Firebase Functions:
+  1. Navigate to the `functions` directory.
+  2. Run standard Firebase deployment commands:  
+     ```bash
+     firebase deploy --only functions
+     ```
 
 ---
+
+###  Demo Credentials
+
+You can explore the app using the following demo account with a few preloaded flashcards: 
+
+- **Email:** weyapes284@asimarif.com  
+- **Password:** passdemo@321
 
 **Enjoy smarter, faster, and more effective studying with ZapZapCards!**
 
@@ -131,7 +144,7 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
   - Full Stack Development, Testing, UI/UX Design, Firebase Integration, and Project Architecture
   - Email: akshitnalawade33@gmail.com
 
-- *Yahya Shaikh*  
+- *Yahya Shaik*  
   - Full Stack Development, Testing, AI Integration, and Documentation
   - Email: yahya.alim.37@gmail.com
 
