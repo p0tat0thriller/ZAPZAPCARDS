@@ -67,7 +67,9 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to use the app.
 
-### 5. Deploy
+### 5. Link to Deployed Application
+
+🔗 [zapzapcards.vercel.app](https://zapzapcards.vercel.app)
 
 - Deploy to Vercel, Firebase Hosting, or your preferred platform.
 - For deploying Firebase Functions, navigate to the `functions` directory and follow standard Firebase deployment steps.
