@@ -91,7 +91,7 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 
 ![image](https://github.com/user-attachments/assets/6757de71-5ba9-41d6-b52a-6856c968274f)
 <br>
-
+<br>
 
 
 **Sign Up:**  
@@ -99,7 +99,7 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 
 ![image](https://github.com/user-attachments/assets/4077d1c8-7e1a-4106-9365-fb92a6b0ef54)
 <br>
-
+<br>
 
 
 **Try AI Generate:**  
@@ -107,7 +107,7 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 
 ![image](https://github.com/user-attachments/assets/15a321b1-fe8e-48c6-b8be-5e350999443b)
 <br>
-
+<br>
 
 
 **Manual Flashcard:**  
@@ -115,11 +115,12 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 
 ![WhatsApp Image 2025-07-02 at 14 58 08_3d084aaa](https://github.com/user-attachments/assets/0e9ab32f-99e7-4e10-9768-8568e5a39641)
 <br>
-
+<br>
 
 
 **Saved Flashcard Sets:**  
   A clean dashboard that displays all your created flashcard sets for quick access and management.
 
 ![WhatsApp Image 2025-07-02 at 14 56 50_2006640d](https://github.com/user-attachments/assets/12c38e4e-e811-40ff-9fd3-9d2c2d1de910)
+<br>
 <br>
