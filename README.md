@@ -92,9 +92,11 @@ a) Home Page: A clean, welcoming homepage that lets users instantly choose betwe
 
 
 
+
 b) Sign Up: A simple and secure sign-up page powered by Clerk, offering quick registration via email or Google.
 
 ![image](https://github.com/user-attachments/assets/4077d1c8-7e1a-4106-9365-fb92a6b0ef54)
+
 
 
 
@@ -104,9 +106,11 @@ c) Try AI Generate: An intuitive interface to instantly generate custom flashcar
 
 
 
+
 d) Manual Flashcard: A simple interface to manually create and customize your own flashcards by adding questions and answers
 
 ![WhatsApp Image 2025-07-02 at 14 58 08_3d084aaa](https://github.com/user-attachments/assets/0e9ab32f-99e7-4e10-9768-8568e5a39641)
+
 
 
 
