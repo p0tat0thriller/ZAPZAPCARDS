@@ -86,22 +86,30 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 
 ### 7. Screenshots of the UI
 
-Home Page: A clean, welcoming homepage that lets users instantly choose between AI-generated flashcards or manual creation.
+a) Home Page: A clean, welcoming homepage that lets users instantly choose between AI-generated flashcards or manual creation.
 
 ![image](https://github.com/user-attachments/assets/6757de71-5ba9-41d6-b52a-6856c968274f)
 
-Sign Up: A simple and secure sign-up page powered by Clerk, offering quick registration via email or Google.
+
+
+b) Sign Up: A simple and secure sign-up page powered by Clerk, offering quick registration via email or Google.
 
 ![image](https://github.com/user-attachments/assets/4077d1c8-7e1a-4106-9365-fb92a6b0ef54)
 
-Try AI Generate: An intuitive interface to instantly generate custom flashcards by entering any topic, powered by AI.
+
+
+c) Try AI Generate: An intuitive interface to instantly generate custom flashcards by entering any topic, powered by AI.
 
 ![image](https://github.com/user-attachments/assets/15a321b1-fe8e-48c6-b8be-5e350999443b)
 
-Manual Flashcard: A simple interface to manually create and customize your own flashcards by adding questions and answers
+
+
+d) Manual Flashcard: A simple interface to manually create and customize your own flashcards by adding questions and answers
 
 ![WhatsApp Image 2025-07-02 at 14 58 08_3d084aaa](https://github.com/user-attachments/assets/0e9ab32f-99e7-4e10-9768-8568e5a39641)
 
-Saved Flashcard sets: A clean dashboard that displays all your created flashcard sets for quick access and management.
+
+
+e) Saved Flashcard sets: A clean dashboard that displays all your created flashcard sets for quick access and management.
 
 ![WhatsApp Image 2025-07-02 at 14 56 50_2006640d](https://github.com/user-attachments/assets/12c38e4e-e811-40ff-9fd3-9d2c2d1de910)
