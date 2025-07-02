@@ -131,7 +131,7 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
   - Full Stack Development, Testing, UI/UX Design, Firebase Integration, and Project Architecture
   - Email: akshitnalawade33@gmail.com
 
-- *Yahya Shaik*  
+- *Yahya Shaikh*  
   - Full Stack Development, Testing, AI Integration, and Documentation
   - Email: yahya.alim.37@gmail.com
 
