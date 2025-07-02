@@ -124,3 +124,44 @@ The ZapZapCards platform uses a modular architecture: a user-friendly frontend c
 ![WhatsApp Image 2025-07-02 at 14 56 50_2006640d](https://github.com/user-attachments/assets/12c38e4e-e811-40ff-9fd3-9d2c2d1de910)
 <br>
 <br>
+
+### 8. Team Members & Contributions
+
+- *Akshit Nalawade*  
+  - Full Stack Development, Testing, UI/UX Design, Firebase Integration, and Project Architecture
+  - Email: akshitnalawade33@gmail.com
+
+- *Yahya Shaik*  
+  - Full Stack Development, Testing, AI Integration, and Documentation
+  - Email: yahya.alim.37@gmail.com
+
+ZapZapCards is a collaborative project by Akshit Nalawade and Yahya Shaik.
+
+---
+
+### 9. Future Roadmap & Improvements 
+
+To enhance ZapZapCards into a more robust and interactive learning platform, here are some upcoming features and improvements we aim to implement:
+
+### 📥 Input & Import Features
+- *Import flashcards from PDF, DOCX, and image files (via OCR)* for faster set creation.
+- *Bulk upload support* to streamline large-scale content ingestion for educators.
+
+### 📤 Export & Sharing
+- *Shareable flashcard links* for public or restricted access.
+- *Export flashcards as PDF/CSV* for offline use or printout.
+- *Classroom mode* for teachers to share sets with students.
+
+### 🎮 Gamification & Engagement
+- *Interactive quizzes* generated from flashcards.
+- *Scoring and leaderboard system* to make learning competitive and fun.
+- *Daily challenge mode* to reinforce learning consistency.
+
+### 🧠 AI-Powered Enhancements
+- *Smart tagging and category suggestions* using NLP.
+- *Auto-summarization and question generation* from imported content.
+
+### 🔧 Usability Improvements
+- *Mobile responsiveness improvements* for better accessibility.
+- *Enhanced search and filtering* for large flashcard libraries.
+- *Dark mode* for comfortable night-time studying.
