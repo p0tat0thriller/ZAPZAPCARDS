@@ -25,7 +25,11 @@ export default function Generate() {
       body: text,
     })
       .then((response) => response.json())
-      .then((data) => setFlashcards(data))
+      .then((data) => {
+        setFlashcards(data);
+        setCurrentCardIndex(0); // Reset to first card
+        setFlipped(false); // Reset flip state
+      })
       .catch((error) => {
         console.error('Error:', error);
       });
